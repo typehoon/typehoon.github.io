@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Intelligent Semiconductor Engineering, University of Seoul, 2026 - Present
+* B.S. in Electrical and Computer Engineering, University of Seoul, 2020 - 2026
 
 Work experience
 ======
@@ -34,12 +33,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Semiconductor Fabrication
+  * ICP & RIE
+  * E-beam Evaporation
+  * Photolithography
+  * MOCVD
+* Device Simulation
+  * Sentaurus TCAD
+* Languages
+  * Korean (Native)
+  * English (Intermediate)
 
 Publications
 ======

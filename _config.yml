@@ -26,7 +26,7 @@ author:
   avatar           : "profile19.png"
   name             : "Jeonghoon Lee"
   pronouns         : "he/him" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.S. student at the University of Seoul, focusing on the fabrication and characterization of 2D materials-based FETs."
   location         : "Seoul, South Korea"
   employer         : "University of Seoul"
   uri              : https://www.uos.ac.kr/eng/web/main
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : typehoon
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
