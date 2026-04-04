@@ -3,15 +3,15 @@
 Name Name:
   name        : "Jeonghoon Lee"
   uri         : "https://name.com"
-  email       : "name@name.com"
+  email       : "everstory625@uos.ac.kr"
   bio         : "This is the first name."
-  avatar      : "profile19.jpg"
+  avatar      : "profile19.png"
   twitter     : "name"
   google_plus : "Name"
 
 Name2 Name2:
   name        : "TaeWan Kim"
-  email       : "name2@name2.com"
+  email       : "twkim@uos.ac.kr"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
