@@ -34,15 +34,20 @@ Work experience
 Skills
 ======
 * Semiconductor Fabrication
-  * ICP & RIE
-  * E-beam Evaporation
-  * Photolithography
-  * MOCVD
+  * ICP & RIE : Expert
+  * E-beam Evaporation : Advanced
+  * Photolithography : Advanced
+  * MOCVD : Novice
+* Characterization & Analysis
+  * Electrical Characterization (I-V, C-V, Pulse) : Advanced
+  * Raman & PL Spectroscopy : Intermediate
+  * XPS, AFM Analysis : Intermediate
+  * FIB & TEM Analysis : Intermediate
 * Device Simulation
-  * Sentaurus TCAD
+  * Sentaurus TCAD : Novice
 * Languages
-  * Korean (Native)
-  * English (Intermediate)
+  * Korean : Native
+  * English : Intermediate
 
 Publications
 ======
@@ -64,4 +69,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Equipment Supervisor & Studnet Tutor, University of Seoul (2025 - Present)
+  * Supervising the operation of **ICP & RIE (Dry Etching)** systems in the laboratory.
+  * Providing technical orientation and safety training for new lab members and junior researchers.
+* Head of Public Relations & Editorial Board, *Mijirim* (Classical Guitar Club), University of Seoul (2024 – 2025)
+  * Managed promotional strategies and directed the production of club publications and performance brochures.
+  * Facilitated internal communication and enhanced the club's public image through creative content planning.
