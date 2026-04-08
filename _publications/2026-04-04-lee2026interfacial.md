@@ -3,7 +3,7 @@ title: "Interfacial Engineering of WS<sub>2</sub> Thin-Film Transistor via O<sub
 collection: publications
 category: manuscripts
 permalink: /publication/lee2026interfacial
-excerpt: 'Status: Under Revisions'
+excerpt: 'Status: Accepted'
 date: 2026-04-04
 venue: 'Electronic Materials Letters'
 # paperurl: 
