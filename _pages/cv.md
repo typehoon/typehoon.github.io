@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Intelligent Semiconductor Engineering, University of Seoul, 2026 - Present
-* B.S. in Electrical and Computer Engineering, University of Seoul, 2020 - 2026
+* M.S. in Intelligent Semiconductor Engineering, University of Seoul, 2026.02 - Present
+* B.S. in Electrical and Computer Engineering, University of Seoul, 2020.03 - 2026.02
 
 Work experience
 ======
@@ -20,21 +20,22 @@ Work experience
   * Advanced Materials and Nano Device Laboratory, University of Seoul
   * Duties included: Supervisor of ICP & RIE system, E-beam evaporation
   * Supervisor: Professor TaeWan Kim
+
+* 2027.01 - 2027.09: Visiting Researcher
+  * Multifunctional Materials ane Mechanics Group, UC Irvine
+  * Duties included: Supervisor of ICP & RIE system, E-beam evaporation
+  * Supervisor: Professor SungWoo Nam
   
 Skills
 ======
-* Semiconductor Fabrication
-  * ICP & RIE : Expert
-  * E-beam Evaporation : Advanced
-  * Photolithography : Advanced
-  * MOCVD : Novice
-* Characterization & Analysis
-  * Electrical Characterization (I-V, C-V, Pulse) : Advanced
-  * Raman & PL Spectroscopy : Intermediate
-  * XPS, AFM Analysis : Intermediate
-  * FIB & TEM Analysis : Intermediate
-* Device Simulation
-  * Sentaurus TCAD : Novice
+* Semiconductor Fabircation Process
+  * Thin-Film Deposition: E-beam evaporator, MOCVD
+  * Etch: ICP & RIE
+  * Lithography: Maskless aligner
+  * Characterization: Raman spectrometer
+  * Electrical Characterization: I-V, C-V, Pulse
+  * Simulation: Synopsys Sentaurus TCAD
+
 * Languages
   * Korean : Native
   * English : Intermediate
