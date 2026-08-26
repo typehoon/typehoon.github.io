@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0008-5119-2854"
       },
       {
         "network": "GitHub",
@@ -51,12 +51,12 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "University of Seoul",
       "area": "B.S. in GitHub",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",
-      "gpa": null,
+      "gpa": "4.03/4.5",
       "courses": []
     }
   ],
