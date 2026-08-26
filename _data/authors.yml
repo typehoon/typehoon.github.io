@@ -2,17 +2,7 @@
 
 Name Name:
   name        : "Jeonghoon Lee"
-  uri         : "https://name.com"
+  uri         : "https://typehoon.github.io"
   email       : "typehoon@uos.ac.kr"
-  bio         : "This is the first name."
+  bio         : ""
   avatar      : "profile26.png"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "TaeWan Kim"
-  email       : "twkim@uos.ac.kr"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeonghoon Lee, M.S. student at University of Seoul"
+title: "Jeonghoon Lee"
 author_profile: true
 redirect_from: 
   - /about/

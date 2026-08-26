@@ -8,26 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Education"
+    url: /education/
+    
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Presentations"
+    url: /presentations/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/     
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-# - title: "Blog Posts"
-#    url: /year-archive/
-    
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Awards"
+    url: /awards/
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-#  - title: "Guide"
-#    url: /markdown/
+    url: /assets/pdf/Jeonghoon_Lee_CV.pdf
